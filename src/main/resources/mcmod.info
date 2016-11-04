@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ircr",
+  "name": "IRC Relay",
+  "description": "Simple IRC relay",
+  "version": "0.5",
+  "mcversion": "*",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Raqbit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
